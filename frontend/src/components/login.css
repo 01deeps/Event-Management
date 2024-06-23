@@ -1,0 +1,29 @@
+.username, .pswrd {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 300px;
+  font-size: 16px;
+  border-radius: 8px;
+  border-color: black;
+}
+.align{
+  padding-top: 12px;
+  
+}
+
+.log {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 150px;
+  font-size: 17px;
+  border-radius: 7px;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}

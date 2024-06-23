@@ -1,0 +1,38 @@
+.name, .mail, .pswd {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 300px;
+  font-size: 16px;
+  border-radius: 8px;
+  border-color: black;
+}
+
+.reg {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 150px;
+  font-size: 16px;
+  border-radius: 7px;
+}
+
+.align1, .align2{
+  padding-top: 12px;
+}
+.align3{
+  font-size: 15px;
+}
+.role{
+  border-radius: 6px;
+  border-color: black;
+  border-width: 2px;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  margin-top: 1px;
+}
